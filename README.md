@@ -1,1 +1,1 @@
-Traversy media chat app
+Simple react-graphql app
